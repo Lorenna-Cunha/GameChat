@@ -23,7 +23,7 @@ Esses foram os plugins utilizados no projeto:
 - Essential Addons for Elementor
 - Contact Form 7
 
-*link do PDF*
+[*link do PDF*](https://drive.google.com/file/d/1n28DvESJ17xWXsthMonEfoXtK9-M0JVo/view?usp=sharing)
 
 ## Arquitetura do site
 
