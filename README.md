@@ -7,8 +7,6 @@
  
 ## Tabela de Conteúdo
 
-*Faça um índice com links internos para todos os tópicos seguintes.*
-
  1. [Tecnologias utilizadas](#tecnologias-utilizadas)
  2. [Arquitetura](#arquitetura)
  3. [Autores](#autores)
